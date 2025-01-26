@@ -41,7 +41,7 @@ A lightweight and fast API built with FastAPI to validate email addresses. It ch
 ## 📫 Contact Me
 If you have any questions, ideas, or opportunities, feel free to reach out!
 
-- **Email:** [repusre@gmail.com](repusre@gmail.com)  
+- **Email:** [repusre@gmail.com](mailto:repusre@gmail.com)  
 - **GitHub:** [github.com/dan260](https://github.com/dan260)
 
 ---

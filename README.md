@@ -38,6 +38,21 @@ A lightweight and fast API built with FastAPI to validate email addresses. It ch
 
 ---
 
+### 3. [Terminal Styled Website](https://github.com/dan260/terminal-website)
+> **Category:** Web Development  
+> **Technologies:** HTML, CSS, JavaScript
+
+**Description:**  
+A unique website designed to mimic a terminal interface, providing a nostalgic and tech-centric user experience. This project showcases creative front-end development techniques and interactive elements.
+
+**Features:**
+- Terminal-like UI with command-line interactions.
+- Fully responsive design.
+
+[🔗 View Project](https://github.com/dan260/terminal-website)
+
+---
+
 ## 📫 Contact Me
 If you have any questions, ideas, or opportunities, feel free to reach out!
 

@@ -49,7 +49,8 @@ A unique website designed to mimic a terminal interface, providing a nostalgic a
 - Terminal-like UI with command-line interactions.
 - Fully responsive design.
 
-[🔗 View Project](https://github.com/dan260/terminal-website)
+[🔗 Source Code](https://github.com/dan260/terminal-website)
+[🔗 View Project](https://dan260.github.io/terminal-website/)
 
 ---
 

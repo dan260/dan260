@@ -22,19 +22,20 @@ News-News.Zip is an AI-powered application (available as both a mobile app and a
 
 ---
 
-### 2. [Email Validator API](https://github.com/dan260/email-validation-python)
-> **Category:** Small Utility Project  
-> **Technologies:** Python, FastAPI
+### 2. [DEMO Code Training Website](https://github.com/dan260/code-training)
+> **Category:** Fullstack (web and backend) app. 
+> **Technologies:** Python, FastAPI, SQLite, JavaScript, React, Vite, TailwindCSS
 
 **Description:**  
-A lightweight and fast API built with FastAPI to validate email addresses. It checks whether an email is valid.
+A demo platform for practicing coding challenges online, similar to LeetCode.
 
 **Features:**
-- Fast and reliable email validation.
-- Easy integration into existing projects.
-- Comprehensive error handling.
+- Python Code Execution: Write and run Python code directly in the browser.
+- User-friendly Interface: Built with React + TailwindCSS for a responsive and clean UI.
+- Backend API: FastAPI handles code execution requests and interacts with the database.
+- Database: SQLite used for storing challenges and users.
 
-[🔗 View Project](https://github.com/dan260/email-validation-python)
+[🔗 View Project](https://github.com/dan260/code-training)
 
 ---
 
